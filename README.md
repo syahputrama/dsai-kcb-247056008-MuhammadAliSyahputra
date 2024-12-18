@@ -1,2 +1,2 @@
-# dsai_kcb_247056008_muhammad_ali_syahputra
+# dsai-kcb-247056008-MuhammadAliSyahputra
 Tugas Kecerdasan Buatan
